@@ -153,8 +153,8 @@ The Random Forest Classifier performed better compared to Logistic Regression fo
 
 ## Final Observation
 
-- Logistic Regression achieved good baseline performance.
-- Random Forest Classifier provided better classification capability and overall prediction performance.
+- Logistic Regression achieved good baseline performance. (98.57%)
+- Random Forest Classifier provided better classification capability and overall prediction performance. (99.34%)
 
 ---
 
